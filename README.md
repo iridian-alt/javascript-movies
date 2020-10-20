@@ -1,5 +1,5 @@
 
-# A Video Platform - Vanilla JavaScript 
+# A Video Platform - Vanilla JavaScript  
 
 
 I have used these APIs to request the data:
